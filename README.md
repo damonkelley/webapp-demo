@@ -9,7 +9,7 @@ $ git clone https://github.com/damonkelley/webapp-demo.git
 $ cd webapp-demo
 $ docker build -t damonkelley/demo .
 ```
-Use whatever namimg convention you like instead of `damonkelley/demo`
+Use whatever naming convention you like instead of `damonkelley/demo`
 
 ##### Run the image in the foreground
 ```sh
