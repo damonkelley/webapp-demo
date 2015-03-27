@@ -11,12 +11,12 @@ $ docker build -t damonkelley/demo .
 ```
 Use whatever naming convention you like instead of `damonkelley/demo`
 
-##### Run the image in the foreground
+##### Run the container in the foreground
 ```sh
 $ docker run -it -p 5000:5000 damonkelley/demo
 ```
 
-##### Run the image in the background
+##### Run the container in the background
 ```sh
 $ docker run -d -p 5000:5000 damonkelley/demo
 ```
